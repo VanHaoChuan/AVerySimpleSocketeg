@@ -1,0 +1,11 @@
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/bin/Debug/netcoreapp2.1/Server.deps.json
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/bin/Debug/netcoreapp2.1/Server.runtimeconfig.json
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/bin/Debug/netcoreapp2.1/Server.runtimeconfig.dev.json
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/bin/Debug/netcoreapp2.1/Server.dll
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/bin/Debug/netcoreapp2.1/Server.pdb
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/obj/Debug/netcoreapp2.1/Server.csprojAssemblyReference.cache
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/obj/Debug/netcoreapp2.1/Server.csproj.CoreCompileInputs.cache
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/obj/Debug/netcoreapp2.1/Server.AssemblyInfoInputs.cache
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/obj/Debug/netcoreapp2.1/Server.AssemblyInfo.cs
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/obj/Debug/netcoreapp2.1/Server.dll
+/Users/BillyHerrington/Documents/SocketChatCSharpVer/Server/obj/Debug/netcoreapp2.1/Server.pdb
